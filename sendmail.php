@@ -7,7 +7,7 @@
 // email
 define('TO_EMAIL', 'jesus.borreguero@gmail.com'); 
 define('TOO_EMAIL', 'jesus@esbueno.org'); 
-define('FROM_EMAIL', 'nandocarpintero@esbueno.es');  
+define('FROM_EMAIL', 'jesus.borreguero@gmail.com');  
 define('FROM_NAME', 'Nando - Web '); 
 
 
